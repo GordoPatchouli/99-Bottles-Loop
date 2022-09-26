@@ -1,5 +1,5 @@
 # I'm not really sure if this is even considered correct but i guess it gets the job done
-#99 bottles of beer song, plus corrections to the last couple of lines
+# 99 bottles of beer song, plus corrections to the last couple of lines
 
 for x in range(99,0,-1):
     print(x)   
